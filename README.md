@@ -9,6 +9,7 @@ A novice Front-End developer with no commercial development experience, in love 
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [A project demonstrating skills](http://github.com/Boldinov90/superapp-2.0.git)
 *   ✉️  You can contact me at [detroid90@mail.ru](mailto:detroid90@mail.ru)
+*   ☎️  +7 (904) 555-62-87
 *   🤝  I'm open to collaborating on Открыт любым интересным проектам### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
